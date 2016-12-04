@@ -37,6 +37,7 @@ The OSC c# listener can be found here
 Open Vibe setups are here:
 
 # Why?
+B-vr at its most basic is a visualization of the users focus/relaxation, theta wave activity and cognitive control.  This instrument is a rewardng aesthetic experience that promotes mindulness and cognitive exploration.  With training and practice, the user will become more adept at controling the experience as well as controlling different mental functions.
 
 # EEG issues
 The emotive device, despite looking cool, is not easy to use. The provided SDKs have tendencies to malfunction, electrodes not picking up signals and debugging in such short time and without acces to the proprietary firmware is challenging. We were lucky to obtain one of the devices that actually worked and was sending data to the receiver, but the community sdks for c# or unity proved to be unstable.
